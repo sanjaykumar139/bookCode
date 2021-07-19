@@ -1,0 +1,13 @@
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.exe
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.deps.json
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.runtimeconfig.json
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.runtimeconfig.dev.json
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.dll
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\bin\Debug\netcoreapp3.1\ConsoleApp2design.pdb
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.csprojAssemblyReference.cache
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.AssemblyInfoInputs.cache
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.AssemblyInfo.cs
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.dll
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.pdb
+C:\Users\sanja\Desktop\console\designpattern\ConsoleApp2design\ConsoleApp2design\obj\Debug\netcoreapp3.1\ConsoleApp2design.genruntimeconfig.cache
